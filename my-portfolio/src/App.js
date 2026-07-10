@@ -15,7 +15,7 @@ function App() {
     <div className="portfolio">
       {/* --- FLOATING NAVBAR --- */}
       <nav className="navbar">
-        <div className="logo">OSHAN.site</div>
+        <div className="logo">Hello !</div>
         <div className="nav-links">
           <button onClick={() => scrollToSection('home')} className="nav-btn">Home</button>
           <button onClick={() => scrollToSection('about')} className="nav-btn">About</button>
