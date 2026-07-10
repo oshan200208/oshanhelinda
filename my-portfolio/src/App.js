@@ -31,7 +31,7 @@ function App() {
         <h1>Oshan Helinda </h1>
         <p>Software Engineering Undergraduate</p>
         
-        <a href="/Oshan CV.pdf" download="Oshan CV.pdf" className="download-btn">
+        <a href="/OshanCV.pdf" download="OshanCV.pdf" className="download-btn">
           Download CV 📄
         </a>
       </header>
@@ -197,7 +197,7 @@ function App() {
       </div>
     </a>
 
-    <a href="https://github.com/yourusername" target="_blank" rel="noreferrer" className="contact-item">
+    <a href="https://github.com/oshan200208" target="_blank" rel="noreferrer" className="contact-item">
       <FaGithub className="icon github-icon" />
       <div className="contact-text">
         <span>GitHub</span>
@@ -205,7 +205,7 @@ function App() {
       </div>
     </a>
 
-    <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer" className="contact-item">
+    <a href="https://www.linkedin.com/in/oshan-helinda-971366303?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer" className="contact-item">
       <FaLinkedin className="icon linkedin-icon" />
       <div className="contact-text">
         <span>LinkedIn</span>
@@ -213,7 +213,7 @@ function App() {
       </div>
     </a>
 
-    <a href="https://facebook.com/yourusername" target="_blank" rel="noreferrer" className="contact-item">
+    <a href="https://www.facebook.com/oshan.helinda?mibextid=rS40aB7S9Ucbxw6v" target="_blank" rel="noreferrer" className="contact-item">
       <FaFacebook className="icon facebook-icon" />
       <div className="contact-text">
         <span>Facebook</span>
